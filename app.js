@@ -53,5 +53,6 @@ $(function(){
             return;
         }
         alert('Buenísimo!!!!!');
+        $(this).fadeOut("slow");
     });
 });
